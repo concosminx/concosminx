@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+![Metrics](/github-metrics.svg)
 
 <!--
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 **concosminx/concosminx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
