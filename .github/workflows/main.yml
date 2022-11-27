@@ -19,5 +19,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_colors: rainbow
           plugin_languages_ignored: html, css
-          
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+          plugin_achievements: yes
+          plugin_gists: yes
     
