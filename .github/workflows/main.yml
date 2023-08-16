@@ -25,4 +25,4 @@ jobs:
           plugin_leetcode_sections: solved, skills, recent
           #plugin_achievements: yes
           #plugin_gists: yes
-    
+          plugin_traffic: yes
