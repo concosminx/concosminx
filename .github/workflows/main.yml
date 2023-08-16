@@ -23,6 +23,6 @@ jobs:
           plugin_topics_mode: icons
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-          plugin_achievements: yes
-          plugin_gists: yes
+          #plugin_achievements: yes
+          #plugin_gists: yes
     
